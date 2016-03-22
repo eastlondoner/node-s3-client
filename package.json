@@ -41,6 +41,7 @@
     "graceful-fs": "~3.0.5",
     "mime": "~1.2.11",
     "mkdirp": "~0.5.0",
+    "n-readlines": "^0.2.2",
     "pend": "~1.2.0",
     "rimraf": "~2.2.8",
     "streamsink": "~1.2.0"
