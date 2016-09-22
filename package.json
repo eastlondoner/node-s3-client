@@ -34,11 +34,11 @@
     "ncp": "~1.0.1"
   },
   "dependencies": {
-    "aws-sdk": "~2.2.16",
     "farmhash": "^1.1.1",
+    "aws-sdk": "~2.4.9",
     "fd-slicer": "~1.0.0",
     "findit2": "~2.2.3",
-    "graceful-fs": "~3.0.5",
+    "graceful-fs": "~4.1.4",
     "mime": "~1.2.11",
     "mkdirp": "~0.5.0",
     "n-readlines": "^0.2.2",
